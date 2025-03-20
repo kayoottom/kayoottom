@@ -1,37 +1,71 @@
-# Olá, eu sou o Kayo! 👋
 
-**Hebreus 12:7**
+# 👨🏻‍💻 Kayo Otton  
 
-### 👨‍💻 Sobre mim
+**`Desenvolvedor Frontend`**  
 
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. Atualmente, estou focado em aprimorar minhas habilidades de programação e explorar novas tecnologias. 
+Me chamo Kayo Otton, tenho 15 anos e sou apaixonado por tecnologia e programação. Tenho conhecimento em **HTML**, **CSS**, **JavaScript** e **Node.js**. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, criando projetos que unem criatividade e lógica. Gosto de explorar novas ideias, desde a criação de jogos e sistemas até páginas 
+interativas e dinâmicas.  
 
-### 🚀 Tecnologias e Ferramentas
+<!-- Redes Sociais -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayo-otton-53a8b1317/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayoz22/)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayooottom77@gmail.com)
 
-- **Linguagens:** JavaScript,HTML5, CSS
-- **Frameworks:** React, Node.js(basico)
-- **Ferramentas:** Git,VS Code
-- **Outros:** RPG Maker, Unity (básico)
+   ### 🤖 Linguagens e Tecnologias
 
-### 📚 Estou estudando
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+/>
 
-- Desenvolvimento Web Avançado
-- Criação de jogos
-- Boas práticas de programação e padrões de design
-
-### 🎮 Projetos em Destaque
-
-- **[Meu Jogo do Super Mario](https://github.com/seu-usuario/meu-jogo-super-mario):** Um clone divertido de Super Mario que desenvolvi enquanto aprendia sobre animações e mecânicas de jogo.
-- **[Página de Bio Rocketseat](https://github.com/seu-usuario/pagina-bio-rocketseat):** Uma página de bio estilizada, criada como parte de um desafio da Rocketseat.
 
 
-### 💬 Vamos Conectar!
+<br/>
+<br/>
 
-- **Email:** kayoootton77@gmail.com
-- **LinkedIn:** [Kayo otton](https://www.linkedin.com/in/kayo-otton-53a8b1317/)
-- **Instagram:** [Kayoz22](https://www.instagram.com/kayoz22/)
-
----
-
-"Uma mente que se abre a uma nova ideia jamais voltará ao seu tamanho original." – Albert Einstein
-
+### 📊 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoottom&layout=compact&langs_count=6&theme=radical)
