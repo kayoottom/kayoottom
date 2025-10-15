@@ -1,17 +1,12 @@
-
 # 👨🏻‍💻 Kayo Otton  
 
 **`Desenvolvedor Frontend`**  
 
-Me chamo Kayo Otton, tenho 15 anos e sou apaixonado por tecnologia e programação. Tenho conhecimento em **HTML**, **CSS**, **JavaScript** e **Node.js**. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, criando projetos que unem criatividade e lógica. Gosto de explorar novas ideias, desde a criação de jogos e sistemas até páginas 
-interativas e dinâmicas.  
+Me chamo Kayo Otton, tenho 15 anos e sou apaixonado por tecnologia e programação. Tenho conhecimento em **HTML**, **CSS**, **JavaScript** e **Node.js**. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, criando projetos que unem criatividade e lógica. Gosto de explorar novas ideias, desde a criação de jogos e sistemas até páginas interativas e dinâmicas.  
 
-<!-- Redes Sociais -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayo-otton-53a8b1317/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayoz22/)
-[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayooottom77@gmail.com)
+---
 
-   ### 🤖 Linguagens e Tecnologias
+### 🚀 Tecnologias & Ferramentas
 
 <img 
     align="left" 
@@ -29,7 +24,7 @@ interativas e dinâmicas.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-  <img 
+<img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -59,13 +54,30 @@ interativas e dinâmicas.
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-
-
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoottom&layout=compact&langs_count=6&theme=radical)
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayo-otton-53a8b1317/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayoz22/)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayooottom77@gmail.com)
