@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**  
 
-Me chamo Kayo Otton, tenho 15 anos e sou apaixonado por tecnologia e programação. Tenho conhecimento em **HTML**, **CSS**, **JavaScript** e **Node.js**. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, criando projetos que unem criatividade e lógica. Gosto de explorar novas ideias, desde a criação de jogos e sistemas até páginas interativas e dinâmicas.  
+Me chamo Kayo Otton, tenho 16 anos e sou apaixonado por tecnologia e programação. Tenho conhecimento em **HTML**, **CSS**, **JavaScript** e **Node.js**. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, criando projetos que unem criatividade e lógica. Gosto de explorar novas ideias, desde a criação de jogos e sistemas até páginas interativas e dinâmicas.  
 
 ---
 
