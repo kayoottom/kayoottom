@@ -1,80 +1,32 @@
-# 👨🏻‍💻 Kayo Otton  
+# 👨🏻‍💻 Kayo Otton
 
-**`Desenvolvedor Frontend`**  
+**Desenvolvedor Frontend**
 
-Me chamo Kayo Otton, tenho 16 anos e sou apaixonado por tecnologia e programação. Tenho conhecimento em **HTML**, **CSS**, **JavaScript** e **Node.js**. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, criando projetos que unem criatividade e lógica. Gosto de explorar novas ideias, desde a criação de jogos e sistemas até páginas interativas e dinâmicas.  
-
----
-
-### 🚀 Tecnologias & Ferramentas
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<br/>
-<br/>
+Me chamo **Kayo Otton**, tenho **16 anos** e estudo **desenvolvimento há 2 anos**.
+Sou apaixonado por tecnologia e programação, com foco em **Frontend**, criando interfaces modernas, responsivas e bem estruturadas.
+Estou sempre evoluindo através de projetos práticos, estudos contínuos e novos desafios.
 
 ---
 
-### 📊 Estatísticas
+## 📊 GitHub Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoottom&layout=compact&langs_count=6&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kayoottom&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoottom&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
 
 ---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
+</p>
+
+
 
 ### 🌐 Conecte-se comigo
 
