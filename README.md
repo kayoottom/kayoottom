@@ -11,9 +11,8 @@ Estou sempre evoluindo através de projetos práticos, estudos contínuos e novo
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayoottom&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoottom&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
