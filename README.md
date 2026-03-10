@@ -10,13 +10,7 @@ Estou sempre evoluindo através de projetos práticos, estudos contínuos e novo
 
 ## 📊 GitHub Status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayoottom&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoottom&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</p>
+[![kayo GitHub stats](https://github-readme-stats.vercel.app/api?Kayoottom=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
