@@ -10,8 +10,8 @@ Estou sempre evoluindo através de projetos práticos, estudos contínuos e novo
 
 ## 📊 GitHub Status
 
-[![kayo GitHub stats](https://github-readme-stats.vercel.app/api?Kayoottom=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoottom&layout=compact&theme=tokyonight)
+![Kayo Otton GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoottom&show_icons=true&theme=tokyonight)
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
