@@ -9,9 +9,8 @@ Estou sempre evoluindo através de projetos práticos, estudos contínuos e novo
 ---
 
 ## 📊 GitHub Status
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoottom&layout=compact&theme=tokyonight)
-![Kayo Otton GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoottom&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub de Kayo](https://github-readme-stats.vercel.app/api?username=kayoottom&show_icons=true&theme=tokyonight)
+![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoottom&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
